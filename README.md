@@ -11,7 +11,7 @@ The program also exports the keys into a text file called ‘keys.txt’, which 
 
 ZipDecrypter Program
 ---------------------
-ZipDecrypter imports PyZipper as a module and uses AES keys input by the user to decrypt files from a password-protected Zip file.
+ZipDecrypter is a Python 3 program which uses PyZipper as a module. It uses AES keys input by the user to decrypt files stored within a password-protected Zip file.
 
 When Python file ‘zipDecrypter.py’ is run from command prompt, ZipDecrypter shows the files contained in the Zip file that is hard-coded in the program. User is then prompted to select one of three files contained in the Zip file to decrypt.
 
