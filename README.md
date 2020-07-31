@@ -1,5 +1,6 @@
 # KeyExtractorZipDecrypter
-KeyExtractor and ZipDecrypter tools created using 'PyZipper' by danifus (https://github.com/danifus/pyzipper)
+KeyExtractor and ZipDecrypter tools created using 'PyZipper' by danifus (https://github.com/danifus/pyzipper).
+PyZipper was modified to suit the needs of both tools.
 
 KeyExtractor Program
 ---------------------
